@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedram7596
 - 👀 I’m interested in computer and crypto
-- 🌱 I’m currently learning html,css,js
+- 🌱 I’m currently learning js
 - 📫 How to reach me: p.da7576@gmail.com
 
 <!---
